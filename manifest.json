@@ -1,0 +1,38 @@
+{
+  "name": "Info Loker",
+  "short_name": "loker-info-icon.png",
+  "start_url": "https://loker.toqo.xyz/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#f8f8f8",
+  "description": "Lowongan MM2100, Kawasan KIIC, Loker PT, Loker Cikarang, Loker Karawang, Loker Purwakarta, Loker Tangerang, Loker Bogor, Loker Depok, Loker Pabrik",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-vASoanFEyWE/XJRmwxNYqII/AAAAAAAAAn0/hxxaSSTHzeU-fZRpOqviVe6nkpyf5LKagCLcBGAs/s48/loker-info-icon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-vASoanFEyWE/XJRmwxNYqII/AAAAAAAAAn0/hxxaSSTHzeU-fZRpOqviVe6nkpyf5LKagCLcBGAs/s72/loker-info-icon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-vASoanFEyWE/XJRmwxNYqII/AAAAAAAAAn0/hxxaSSTHzeU-fZRpOqviVe6nkpyf5LKagCLcBGAs/s96/loker-info-icon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-vASoanFEyWE/XJRmwxNYqII/AAAAAAAAAn0/hxxaSSTHzeU-fZRpOqviVe6nkpyf5LKagCLcBGAs/s144/loker-info-icon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-vASoanFEyWE/XJRmwxNYqII/AAAAAAAAAn0/hxxaSSTHzeU-fZRpOqviVe6nkpyf5LKagCLcBGAs/s168/loker-info-icon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-vASoanFEyWE/XJRmwxNYqII/AAAAAAAAAn0/hxxaSSTHzeU-fZRpOqviVe6nkpyf5LKagCLcBGAs/s192/loker-info-icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-vASoanFEyWE/XJRmwxNYqII/AAAAAAAAAn0/hxxaSSTHzeU-fZRpOqviVe6nkpyf5LKagCLcBGAs/s512/loker-info-icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
